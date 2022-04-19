@@ -43,9 +43,13 @@ Die Einführung von vaadin zu webcomponents gibt es hier:
 
 ## Übungen
 
+Zielbild:
+![grafik](https://user-images.githubusercontent.com/7593137/164033823-5328f968-5380-4b7a-82da-8bd419089962.png)
+
+
 ### Layouts mit Webcomponents:
 
-Erzeuge ein Formular mit einem Textfeld einem Span und einem Button in HTML.
+Erzeuge ein Formular mit einem Textfeld, einem Span und einem Button in HTML.
 Bei Klick auf den Button soll die Eingabe von dem Textfeld in den Span übertragen werden.
 Die einzelnen Elemente sollen an Member Variablen in der dazugehörigen Java Klasse referenziert werden.
 Das übertragen des Textes soll Serverseitig geschehen.
@@ -66,6 +70,8 @@ um eine Komponente als Parameter, die beklebt werden soll. Dann könnt ihr mit `
 die Komponente bekleben.
 
 [Doku](https://vaadin.com/docs/latest/flow/components/web-components/#integrating-a-js-module-into-vaadin)
+
+
 
 ### Bonus: Daten in der Komponente umwandeln
 
